@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Allan Guilherme, tenho 18 anos e sou natural de Recife, Pernambuco. Estou cursando o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SESI, com foco no aprendizado em Java e interesse no desenvolvimento de software. Gosto de aplicar meus conhecimentos em projetos acadêmicos e pessoais, explorando linguagens como JavaScript, HTML, CSS e SQL, além do uso de Git e GitHub.
+Me chamo Allan Guilherme, tenho 18 anos e sou natural de Recife/Pernambuco. Estou cursando o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SESI, com foco e aprendizado no desenvolvimento de software. Gosto de aplicar meus conhecimentos em projetos acadêmicos e pessoais, explorando linguagens como Java, JavaScript, HTML, CSS e SQL, além do uso de Git e GitHub.
 
 ---
 
