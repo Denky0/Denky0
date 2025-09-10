@@ -6,6 +6,7 @@ Me chamo Allan Guilherme, tenho 18 anos e sou natural de Recife/Pernambuco. Esto
 
 ---
 
+
 ### 🤖 Linguagens e Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,python,javascript)](https://skillicons.dev)
@@ -18,7 +19,6 @@ Me chamo Allan Guilherme, tenho 18 anos e sou natural de Recife/Pernambuco. Esto
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,spring,nodejs)](https://skillicons.dev)
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
