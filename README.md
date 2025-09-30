@@ -9,7 +9,7 @@ Me chamo Allan Guilherme, tenho 18 anos e sou natural de Recife/Pernambuco. Esto
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,python,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript)](https://skillicons.dev)
 
 ### 🔧 DevOps ###
 
