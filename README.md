@@ -13,7 +13,7 @@ Me chamo Allan Guilherme, tenho 18 anos e sou natural de Recife/Pernambuco. Esto
 
 ### 🔧 DevOps ###
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap)](https://skillicons.dev)
 
 ### 💻 Ferramentas de Desenvolvimento ###
 
